@@ -10,6 +10,19 @@ Jobify is a full-stack application that automatically scrapes job listings from 
 - **Backend**: Flask API server with PostgreSQL database
 - **Scraper**: Automated job scraping system that runs every 10 minutes
 
+## 🎯 Live Demo
+
+Experience Jobify in action! Check out our live demo to see the job scraping and management system in real-time.
+
+**🌐 Demo Link**: [Jobify Demo](https://www.loom.com/share/63931487f6644d1e97977dcec2a7f972?sid=e8e59701-7b9b-4f08-83f7-4d3eb72b4175)
+
+**✨ What you'll see:**
+- Modern, responsive UI with search and filter capabilities
+- Automated job scraping functionality
+- Full CRUD operations for job management
+
+*Note: The demo showcases the frontend interface. For the complete system with automated scraping, follow the setup instructions below.*
+
 ## 📁 Project Structure
 
 ```
