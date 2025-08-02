@@ -111,7 +111,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # Run the scraper
-python job_scraper.py
+python bot.py
 ```
 
 ## 🔧 Configuration
@@ -125,12 +125,11 @@ Create `.env` files in both Server and Scraper directories with necessary config
 **Server/.env:**
 ```
 DATABASE_URL=your_supabase_postgresql_connection_string
-FLASK_SECRET_KEY=your_secret_key
-```
-
-**Scraper/.env:**
-```
-API_BASE_URL=http://localhost:5000
+user=your_username
+password= your_password
+host=your_host_name
+port=your_port_name
+dbname=your_db_name
 ```
 
 **Note**: Replace `your_supabase_postgresql_connection_string` with your actual Supabase PostgreSQL connection string from your Supabase dashboard.
