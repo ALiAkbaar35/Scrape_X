@@ -14,7 +14,10 @@ Jobify is a full-stack application that automatically scrapes job listings from 
 
 Experience Jobify in action! Check out our live demo to see the job scraping and management system in real-time.
 
-**🌐 Demo Link**: [Jobify Demo](https://www.loom.com/share/63931487f6644d1e97977dcec2a7f972?sid=e8e59701-7b9b-4f08-83f7-4d3eb72b4175)
+**🌐 Demo Link**: [Jobify Demo 1](https://www.loom.com/share/63931487f6644d1e97977dcec2a7f972?sid=e8e59701-7b9b-4f08-83f7-4d3eb72b4175)
+[Jobify Demo 2](https://www.loom.com/share/2e9265682e5b48a9a3dffa02d35e437b)
+[Jobify Demo 3](https://www.loom.com/share/78d1efd262d4471f9dd6b9b028e2e9a5)
+[Jobify Demo 4](https://www.loom.com/share/115dde9e790941f8baaf0ea05fb87ab7)
 
 **✨ What you'll see:**
 - Modern, responsive UI with search and filter capabilities

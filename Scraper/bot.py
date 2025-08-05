@@ -31,7 +31,7 @@ def Post_job():
 
 if __name__ == "__main__":
     # Run every minute
-    schedule.every(10).minutes.do(Post_job)
+    schedule.every(1).minutes.do(Post_job)
     
     print("Scheduler started. Running every 1 minute.")
     while True:
